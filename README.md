@@ -8,7 +8,7 @@
 
 | <p align="center">PROYECTS</p>  |
 |---|
-| [0x00. Advanced HTML](https://github.com/Caroll1889/holbertonschool-web_front_end/tree/master/0x00-html_advanced) | |
+| [0x00. Advanced HTML](https://github.com/sabrallah/alx-frontend/tree/master/0x00-html_advanced) | |
 
 ***
 ***
