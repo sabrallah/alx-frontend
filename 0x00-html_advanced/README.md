@@ -35,4 +35,4 @@ At the end of this project, you are expected to be able to explain to anyone, **
 * How to correctly structure an HTML page
 
 ## :black_nib: Authors 
-**Diahan Hudgson**  -  [sabrallah](https://github.com/sabrallah)
+**SABRALLAH YOUSSEF (THE GREATEST OF ALL TIMES)**  -  [sabrallah](https://github.com/sabrallah)
