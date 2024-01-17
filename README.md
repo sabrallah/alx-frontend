@@ -9,6 +9,7 @@
 | <p align="center">PROYECTS</p>  |
 |---|
 | [0x00. Advanced HTML](https://github.com/sabrallah/alx-frontend/tree/master/0x00-html_advanced) | |
+| [0x01. Developer_TOOLS](https://github.com/sabrallah/alx-frontend/tree/master/0x01-developer_tools) | |
 
 ***
 ***
