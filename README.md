@@ -10,6 +10,7 @@
 |---|
 | [0x00. Advanced HTML](https://github.com/sabrallah/alx-frontend/tree/master/0x00-html_advanced) | |
 | [0x01. Developer_TOOLS](https://github.com/sabrallah/alx-frontend/tree/master/0x01-developer_tools) | |
+| [0x02. CSS_Advanced](https://github.com/sabrallah/alx-frontend/tree/master/0x02-CSS_advanced) | |
 
 ***
 ***
