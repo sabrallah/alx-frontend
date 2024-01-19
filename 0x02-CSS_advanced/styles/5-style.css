@@ -16,6 +16,11 @@
   font-size: 62.5%;
 }
 
+html {
+    scroll-behavior: smooth;
+    font-size: 62.5%;
+}
+
 .section-tagline,
 .card-category {
   color: var(--color-primary);
