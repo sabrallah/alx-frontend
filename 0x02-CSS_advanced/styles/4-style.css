@@ -1,14 +1,30 @@
 /* styles/3-style.css */
 
-/* Targeting the root element to create custom font-family properties */
 :root {
+  --color-primary: #d73953;
+  --color-black: #090909;
+  --color-white: #ffffff;
+  --color-light-grey: #f3f3f3;
+  --color-dark-grey: #353535;
+  --text-color: var(--color-black);
   --font-family-base: 'Helvetica Neue', Helvetica, Arial, sans-serif;
   --font-family-title: 'Helvetica Neue', Helvetica, Arial, sans-serif;
 }
 
+/* Revisit section-tagline and card-category declarations */
+.section-tagline,
+.card-category {
+  color: var(--color-primary);
+}
+
 /* Set body's font-family to font-family-base */
 body {
-  font-family: var(--font-family-base);
+  color: var(--text-color);
+   font-family: var(--font-family-base);
+}
+
+a {
+  color: var(--text-color);
 }
 
 /* Create a new declaration targeting all 6 levels of section headings */
