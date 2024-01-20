@@ -69,11 +69,6 @@
     font-weight: var(--font-weight-bold);
   }
 
-  a:link {
-    text-decoration: none;
-    color: var(--text-color);
-  }
-
   a[href]:visited {
     font-style: italic;
   }
